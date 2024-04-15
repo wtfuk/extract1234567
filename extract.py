@@ -28,7 +28,7 @@ def extract_and_save_data_from_json(file_path, output_file_path):
             output_file.write(output + '\n')
             output_file.write(details + '\n')
 
-file_path = './data/check-02.json'
-output_file_path = './output/extracted_details.txt'
+file_path = './data/finalcheck.json'
+output_file_path = './output/final_checkpoint.txt'
 
 extract_and_save_data_from_json(file_path, output_file_path)

@@ -1,0 +1,2267 @@
+{
+  "onlya": {
+    "id": 101854,
+    "name": "onlya",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/onlya/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 10900,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 2,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "onlya/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 1
+    },
+    "key": "onlya",
+    "path": "/gritlab/piscine-go/final-checkpoint/onlya",
+    "index": 0
+  },
+  "onlyz": {
+    "id": 101855,
+    "name": "onlyz",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/onlyz/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 10900,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 2,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "onlyz/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 1
+    },
+    "key": "onlyz",
+    "path": "/gritlab/piscine-go/final-checkpoint/onlyz",
+    "index": 1
+  },
+  "printalphabet": {
+    "id": 101990,
+    "name": "printalphabet",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printalphabet/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 21800,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 4,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printalphabet/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune#2",
+        "--allow-builtin"
+      ],
+      "group": 2
+    },
+    "key": "printalphabet",
+    "path": "/gritlab/piscine-go/final-checkpoint/printalphabet",
+    "index": 2
+  },
+  "printreversealphabet": {
+    "id": 101991,
+    "name": "printreversealphabet",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printreversealphabet/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 21800,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 4,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printreversealphabet/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 2
+    },
+    "key": "printreversealphabet",
+    "path": "/gritlab/piscine-go/final-checkpoint/printreversealphabet",
+    "index": 3
+  },
+  "printdigits": {
+    "id": 101992,
+    "name": "printdigits",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printdigits/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 21800,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 4,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printdigits/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 2
+    },
+    "key": "printdigits",
+    "path": "/gritlab/piscine-go/final-checkpoint/printdigits",
+    "index": 4
+  },
+  "strlen": {
+    "id": 101993,
+    "name": "strlen",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/strlen/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "strlen/main.go",
+            "giteaPath": "root/public/subjects/strlen/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "strlen.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 3
+    },
+    "key": "strlen",
+    "path": "/gritlab/piscine-go/final-checkpoint/strlen",
+    "index": 5
+  },
+  "swap": {
+    "id": 101994,
+    "name": "swap",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/swap/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "swap/main.go",
+            "giteaPath": "root/public/subjects/swap/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "swap.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 3
+    },
+    "key": "swap",
+    "path": "/gritlab/piscine-go/final-checkpoint/swap",
+    "index": 6
+  },
+  "fishandchips": {
+    "id": 101917,
+    "name": "fishandchips",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/fishandchips/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "fishandchips/main.go",
+            "giteaPath": "root/public/subjects/fishandchips/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "fishandchips.go"
+      ],
+      "allowedFunctions": [],
+      "group": 3
+    },
+    "key": "fishandchips",
+    "path": "/gritlab/piscine-go/final-checkpoint/fishandchips",
+    "index": 7
+  },
+  "countcharacter": {
+    "id": 101948,
+    "name": "countcharacter",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/countcharacter/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "countcharacter/main.go",
+            "giteaPath": "root/public/subjects/countcharacter/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "countcharacter.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 3
+    },
+    "key": "countcharacter",
+    "path": "/gritlab/piscine-go/final-checkpoint/countcharacter",
+    "index": 8
+  },
+  "countalpha": {
+    "id": 101936,
+    "name": "countalpha",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/countalpha/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "countalpha/main.go",
+            "giteaPath": "root/public/subjects/countalpha/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "countalpha.go"
+      ],
+      "allowedFunctions": [],
+      "group": 3
+    },
+    "key": "countalpha",
+    "path": "/gritlab/piscine-go/final-checkpoint/countalpha",
+    "index": 9
+  },
+  "checknumber": {
+    "id": 101937,
+    "name": "checknumber",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/checknumber/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "checknumber/main.go",
+            "giteaPath": "root/public/subjects/checknumber/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "checknumber.go"
+      ],
+      "allowedFunctions": [],
+      "group": 3
+    },
+    "key": "checknumber",
+    "path": "/gritlab/piscine-go/final-checkpoint/checknumber",
+    "index": 10
+  },
+  "digitlen": {
+    "id": 101906,
+    "name": "digitlen",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/digitlen/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 32700,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "digitlen/main.go",
+            "giteaPath": "root/public/subjects/digitlen/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 6,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "digitlen.go"
+      ],
+      "allowedFunctions": [],
+      "group": 3
+    },
+    "key": "digitlen",
+    "path": "/gritlab/piscine-go/final-checkpoint/digitlen",
+    "index": 11
+  },
+  "atoi": {
+    "id": 101856,
+    "name": "atoi",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/atoi/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "atoi/main.go",
+            "giteaPath": "root/public/subjects/atoi/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "atoi.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 4
+    },
+    "key": "atoi",
+    "path": "/gritlab/piscine-go/final-checkpoint/atoi",
+    "index": 12
+  },
+  "printcomb": {
+    "id": 101849,
+    "name": "printcomb",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printcomb/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "printcomb/main.go",
+            "giteaPath": "root/public/subjects/printcomb/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printcomb.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--no-lit=\\d{3},"
+      ],
+      "group": 4
+    },
+    "key": "printcomb",
+    "path": "/gritlab/piscine-go/final-checkpoint/printcomb",
+    "index": 13
+  },
+  "fromto": {
+    "id": 101913,
+    "name": "fromto",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/fromto/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "fromto/main.go",
+            "giteaPath": "root/public/subjects/fromto/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "fromto.go"
+      ],
+      "allowedFunctions": [
+        "strconv.Itoa"
+      ],
+      "group": 4
+    },
+    "key": "fromto",
+    "path": "/gritlab/piscine-go/final-checkpoint/fromto",
+    "index": 14
+  },
+  "capitalize": {
+    "id": 101850,
+    "name": "capitalize",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/capitalize/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "capitalize/main.go",
+            "giteaPath": "root/public/subjects/capitalize/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "capitalize.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 4
+    },
+    "key": "capitalize",
+    "path": "/gritlab/piscine-go/final-checkpoint/capitalize",
+    "index": 15
+  },
+  "itoa": {
+    "id": 101869,
+    "name": "itoa",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/itoa/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "itoa.go"
+      ],
+      "allowedFunctions": [
+        "len",
+        "--allow-builtin"
+      ],
+      "group": 4
+    },
+    "key": "itoa",
+    "path": "/gritlab/piscine-go/final-checkpoint/itoa",
+    "index": 16
+  },
+  "weareunique": {
+    "id": 101945,
+    "name": "weareunique",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/weareunique/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "weareunique/main.go",
+            "giteaPath": "root/public/subjects/weareunique/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "weareunique.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin",
+        "strings.Contains"
+      ],
+      "group": 4
+    },
+    "key": "weareunique",
+    "path": "/gritlab/piscine-go/final-checkpoint/weareunique",
+    "index": 17
+  },
+  "printrevcomb": {
+    "id": 101877,
+    "name": "printrevcomb",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printrevcomb/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printrevcomb/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--no-lit=\\d{3},"
+      ],
+      "group": 4
+    },
+    "key": "printrevcomb",
+    "path": "/gritlab/piscine-go/final-checkpoint/printrevcomb",
+    "index": 18
+  },
+  "printmemory": {
+    "id": 101882,
+    "name": "printmemory",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printmemory/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "printmemory/main.go",
+            "giteaPath": "root/public/subjects/printmemory/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printmemory.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "unicode.IsGraphic",
+        "--allow-builtin"
+      ],
+      "group": 4
+    },
+    "key": "printmemory",
+    "path": "/gritlab/piscine-go/final-checkpoint/printmemory",
+    "index": 19
+  },
+  "iscapitalized": {
+    "id": 101910,
+    "name": "iscapitalized",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/iscapitalized/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "iscapitalized/main.go",
+            "giteaPath": "root/public/subjects/iscapitalized/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "iscapitalized.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 4
+    },
+    "key": "iscapitalized",
+    "path": "/gritlab/piscine-go/final-checkpoint/iscapitalized",
+    "index": 20
+  },
+  "findprevprime": {
+    "id": 101879,
+    "name": "findprevprime",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/findprevprime/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "findprevprime/main.go",
+            "giteaPath": "root/public/subjects/findprevprime/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "findprevprime.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 4
+    },
+    "key": "findprevprime",
+    "path": "/gritlab/piscine-go/final-checkpoint/findprevprime",
+    "index": 21
+  },
+  "thirdtimeisacharm": {
+    "id": 101918,
+    "name": "thirdtimeisacharm",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/thirdtimeisacharm/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 43600,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "thirdtimeisacharm/main.go",
+            "giteaPath": "root/public/subjects/thirdtimeisacharm/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 8,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "thirdtimeisacharm.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin",
+        "strings.String"
+      ],
+      "group": 4
+    },
+    "key": "thirdtimeisacharm",
+    "path": "/gritlab/piscine-go/final-checkpoint/thirdtimeisacharm",
+    "index": 22
+  },
+  "saveandmiss": {
+    "id": 101916,
+    "name": "saveandmiss",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/saveandmiss/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "saveandmiss/main.go",
+            "giteaPath": "root/public/subjects/saveandmiss/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "saveandmiss.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "saveandmiss",
+    "path": "/gritlab/piscine-go/final-checkpoint/saveandmiss",
+    "index": 23
+  },
+  "concatslice": {
+    "id": 101903,
+    "name": "concatslice",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/concatslice/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "concatslice/main.go",
+            "giteaPath": "root/public/subjects/concatslice/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "concatslice.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "concatslice",
+    "path": "/gritlab/piscine-go/final-checkpoint/concatslice",
+    "index": 24
+  },
+  "union": {
+    "id": 101902,
+    "name": "union",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/union/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "union/main.go"
+      ],
+      "allowedFunctions": [
+        "os.Args",
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "union",
+    "path": "/gritlab/piscine-go/final-checkpoint/union",
+    "index": 25
+  },
+  "inter": {
+    "id": 101901,
+    "name": "inter",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/inter/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "inter/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "os.Args",
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "inter",
+    "path": "/gritlab/piscine-go/final-checkpoint/inter",
+    "index": 26
+  },
+  "fprime": {
+    "id": 101872,
+    "name": "fprime",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/fprime/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "fprime/main.go"
+      ],
+      "allowedFunctions": [
+        "strconv.Atoi",
+        "os.Args",
+        "fmt.*",
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "fprime",
+    "path": "/gritlab/piscine-go/final-checkpoint/fprime",
+    "index": 27
+  },
+  "reversestrcap": {
+    "id": 101861,
+    "name": "reversestrcap",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/reversestrcap/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "reversestrcap/main.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "os.*",
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "reversestrcap",
+    "path": "/gritlab/piscine-go/final-checkpoint/reversestrcap",
+    "index": 28
+  },
+  "wdmatch": {
+    "id": 101898,
+    "name": "wdmatch",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/wdmatch/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 54500,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 10,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "wdmatch/main.go"
+      ],
+      "allowedFunctions": [
+        "os.Args",
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 5
+    },
+    "key": "wdmatch",
+    "path": "/gritlab/piscine-go/final-checkpoint/wdmatch",
+    "index": 29
+  },
+  "fifthandskip": {
+    "id": 101915,
+    "name": "fifthandskip",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/fifthandskip/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 65400,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "fifthandskip/main.go",
+            "giteaPath": "root/public/subjects/fifthandskip/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 12,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "fifthandskip.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin",
+        "strings.String"
+      ],
+      "group": 6
+    },
+    "key": "fifthandskip",
+    "path": "/gritlab/piscine-go/final-checkpoint/fifthandskip",
+    "index": 30
+  },
+  "slice": {
+    "id": 101880,
+    "name": "slice",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/slice/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 65400,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "slice/main.go",
+            "giteaPath": "root/public/subjects/slice/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 12,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "slice.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 6
+    },
+    "key": "slice",
+    "path": "/gritlab/piscine-go/final-checkpoint/slice",
+    "index": 31
+  },
+  "revconcatalternate": {
+    "id": 101905,
+    "name": "revconcatalternate",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/revconcatalternate/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 65400,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "revconcatalternate/main.go",
+            "giteaPath": "root/public/subjects/revconcatalternate/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 12,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "revconcatalternate.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 6
+    },
+    "key": "revconcatalternate",
+    "path": "/gritlab/piscine-go/final-checkpoint/revconcatalternate",
+    "index": 32
+  },
+  "notdecimal": {
+    "id": 101949,
+    "name": "notdecimal",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/notdecimal/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 65400,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "notdecimal/main.go",
+            "giteaPath": "root/public/subjects/notdecimal/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 12,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "notdecimal.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin",
+        "math.Pow",
+        "strconv.Itoa"
+      ],
+      "group": 6
+    },
+    "key": "notdecimal",
+    "path": "/gritlab/piscine-go/final-checkpoint/notdecimal",
+    "index": 33
+  },
+  "wordflip": {
+    "id": 101914,
+    "name": "wordflip",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/wordflip/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 65400,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "wordflip/main.go",
+            "giteaPath": "root/public/subjects/wordflip/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 12,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "wordflip.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin",
+        "strings.Split",
+        "strings.TrimSpace"
+      ],
+      "group": 6
+    },
+    "key": "wordflip",
+    "path": "/gritlab/piscine-go/final-checkpoint/wordflip",
+    "index": 34
+  },
+  "split": {
+    "id": 101866,
+    "name": "split",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/split/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 76300,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "split/main.go",
+            "giteaPath": "root/public/subjects/split/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 14,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "split.go"
+      ],
+      "allowedFunctions": [
+        "make",
+        "--allow-builtin"
+      ],
+      "group": 7
+    },
+    "key": "split",
+    "path": "/gritlab/piscine-go/final-checkpoint/split",
+    "index": 35
+  },
+  "rostring": {
+    "id": 101883,
+    "name": "rostring",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/rostring/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 76300,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 14,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "rostring/main.go"
+      ],
+      "allowedFunctions": [
+        "os.Args",
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 7
+    },
+    "key": "rostring",
+    "path": "/gritlab/piscine-go/final-checkpoint/rostring",
+    "index": 36
+  },
+  "printnbrbase": {
+    "id": 101995,
+    "name": "printnbrbase",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/printnbrbase/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 76300,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "printnbrbase/main.go",
+            "giteaPath": "root/public/subjects/printnbrbase/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 14,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "printnbrbase.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 7
+    },
+    "key": "printnbrbase",
+    "path": "/gritlab/piscine-go/final-checkpoint/printnbrbase",
+    "index": 37
+  },
+  "splitwhitespaces": {
+    "id": 101996,
+    "name": "splitwhitespaces",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/splitwhitespaces/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 76300,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "splitwhitespaces/main.go",
+            "giteaPath": "root/public/subjects/splitwhitespaces/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 14,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "splitwhitespaces.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 7
+    },
+    "key": "splitwhitespaces",
+    "path": "/gritlab/piscine-go/final-checkpoint/splitwhitespaces",
+    "index": 38
+  },
+  "atoibase": {
+    "id": 101858,
+    "name": "atoibase",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/atoibase/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 87200,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "atoibase/main.go",
+            "giteaPath": "root/public/subjects/atoibase/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 16,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "atoibase.go"
+      ],
+      "allowedFunctions": [
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 8
+    },
+    "key": "atoibase",
+    "path": "/gritlab/piscine-go/final-checkpoint/atoibase",
+    "index": 39
+  },
+  "itoabase": {
+    "id": 101870,
+    "name": "itoabase",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/itoabase/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 87200,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "itoabase/main.go",
+            "giteaPath": "root/public/subjects/itoabase/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 16,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "itoabase.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 8
+    },
+    "key": "itoabase",
+    "path": "/gritlab/piscine-go/final-checkpoint/itoabase",
+    "index": 40
+  },
+  "doop": {
+    "id": 101867,
+    "name": "doop",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/doop/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 87200,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 16,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "doop/main.go"
+      ],
+      "allowedFunctions": [
+        "..",
+        "os.*",
+        "--allow-builtin"
+      ],
+      "group": 8
+    },
+    "key": "doop",
+    "path": "/gritlab/piscine-go/final-checkpoint/doop",
+    "index": 41
+  },
+  "piglatin": {
+    "id": 101878,
+    "name": "piglatin",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/piglatin/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 87200,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 16,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "piglatin/main.go"
+      ],
+      "allowedFunctions": [
+        "os.Args",
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 8
+    },
+    "key": "piglatin",
+    "path": "/gritlab/piscine-go/final-checkpoint/piglatin",
+    "index": 42
+  },
+  "romannumbers": {
+    "id": 101847,
+    "name": "romannumbers",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/romannumbers/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 87200,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 16,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "romannumbers/main.go"
+      ],
+      "allowedFunctions": [
+        "os.Args",
+        "fmt.Printf",
+        "--allow-builtin"
+      ],
+      "group": 8
+    },
+    "key": "romannumbers",
+    "path": "/gritlab/piscine-go/final-checkpoint/romannumbers",
+    "index": 43
+  },
+  "options": {
+    "id": 101874,
+    "name": "options",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/options/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 87200,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 16,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "options/main.go"
+      ],
+      "allowedFunctions": [
+        "os.*",
+        "fmt.*",
+        "--allow-builtin"
+      ],
+      "group": 8
+    },
+    "key": "options",
+    "path": "/gritlab/piscine-go/final-checkpoint/options",
+    "index": 44
+  },
+  "rpncalc": {
+    "id": 101893,
+    "name": "rpncalc",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/rpncalc/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 98100,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 18,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "rpncalc/main.go"
+      ],
+      "allowedFunctions": [
+        "strconv.Atoi",
+        "os.*",
+        "fmt.*",
+        "strings.Split",
+        "--allow-builtin"
+      ],
+      "group": 9
+    },
+    "key": "rpncalc",
+    "path": "/gritlab/piscine-go/final-checkpoint/rpncalc",
+    "index": 45
+  },
+  "brackets": {
+    "id": 101894,
+    "name": "brackets",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/brackets/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 98100,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 18,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "brackets/main.go"
+      ],
+      "allowedFunctions": [
+        "strconv.Atoi",
+        "os.*",
+        "fmt.*",
+        "strings.Split",
+        "--allow-builtin"
+      ],
+      "group": 9
+    },
+    "key": "brackets",
+    "path": "/gritlab/piscine-go/final-checkpoint/brackets",
+    "index": 46
+  },
+  "sortedlistmerge": {
+    "id": 101997,
+    "name": "sortedlistmerge",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/sortedlistmerge/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 98100,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "sortedlistmerge/main.go",
+            "giteaPath": "root/public/subjects/sortedlistmerge/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 18,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "sortedlistmerge.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 9
+    },
+    "key": "sortedlistmerge",
+    "path": "/gritlab/piscine-go/final-checkpoint/sortedlistmerge",
+    "index": 47
+  },
+  "btreedeletenode": {
+    "id": 101851,
+    "name": "btreedeletenode",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/btreedeletenode/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 109000,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "btreedeletenode/main.go",
+            "giteaPath": "root/public/subjects/btreedeletenode/main.go"
+          }
+        ]
+      },
+      "delay": 0,
+      "difficulty": 20,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "btreedeletenode.go"
+      ],
+      "allowedFunctions": [
+        "--allow-builtin"
+      ],
+      "group": 10
+    },
+    "key": "btreedeletenode",
+    "path": "/gritlab/piscine-go/final-checkpoint/btreedeletenode",
+    "index": 48
+  },
+  "grouping": {
+    "id": 101876,
+    "name": "grouping",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/grouping/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 109000,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 20,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "grouping/main.go"
+      ],
+      "allowedFunctions": [
+        "fmt.Printf",
+        "os.Args",
+        "--allow-builtin"
+      ],
+      "group": 10
+    },
+    "key": "grouping",
+    "path": "/gritlab/piscine-go/final-checkpoint/grouping",
+    "index": 49
+  },
+  "brainfuck": {
+    "id": 101895,
+    "name": "brainfuck",
+    "type": "exercise",
+    "attrs": {
+      "campus": "gritlab",
+      "subject": "/markdown/root/public/subjects/brainfuck/README.md",
+      "validations": [
+        {
+          "type": "tester",
+          "testImage": "ghcr.io/01-edu/test-go",
+          "cooldown": 180000
+        }
+      ],
+      "baseXp": 109000,
+      "category": "required",
+      "codeEditor": {
+        "enabled": true
+      },
+      "delay": 0,
+      "difficulty": 20,
+      "duration": 0,
+      "level": 34,
+      "parentType": "exam",
+      "rootName": "piscine-go",
+      "rootPath": "/gritlab/piscine-go",
+      "xpIndex": 302.25,
+      "language": "go",
+      "expectedFiles": [
+        "brainfuck/main.go"
+      ],
+      "allowedFunctions": [
+        "os.*",
+        "github.com/01-edu/z01.PrintRune",
+        "--allow-builtin"
+      ],
+      "group": 10
+    },
+    "key": "brainfuck",
+    "path": "/gritlab/piscine-go/final-checkpoint/brainfuck",
+    "index": 50
+  }
+}
