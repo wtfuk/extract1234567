@@ -1,9 +1,24 @@
 import json
+import requests
 
-def extract_and_save_data_from_json(file_path, output_file_path):
-    with open(file_path, 'r') as file:
-        json_data = json.load(file)
+def extract_and_save_data_from_json( output_file_path):
+    try:
+        response = requests.get("https://01.gritlab.ax/api/object/gritlab")
+        print(f"Response status code: {response.status_code}")
+        print(f"Response text: {len(response.text)}")
+        
+        json_data = response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+        return
+    except json.JSONDecodeError as e:
+        print(f"Failed to decode JSON: {e}")
+        return
     
+    # Navigate to the desired nested level
+    json_data = json_data['children']['piscine-go']['children']['final-checkpoint']['children']
+
+    # Write extracted data to the output file
     with open(output_file_path, 'w') as output_file:
         for key, value in json_data.items():
             output = key  # Start with the key
@@ -28,7 +43,6 @@ def extract_and_save_data_from_json(file_path, output_file_path):
             output_file.write(output + '\n')
             output_file.write(details + '\n')
 
-file_path = './data/finalcheck.json'
-output_file_path = './output/final_checkpoint.txt'
+output_file_path = './output/final.txt'
 
-extract_and_save_data_from_json(file_path, output_file_path)
+extract_and_save_data_from_json(output_file_path)
