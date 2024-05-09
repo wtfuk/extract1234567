@@ -1,6 +1,9 @@
 import json
 import requests
 
+target_checkpoint = 'checkpoint-01' # 'checkpoint-02' , 'final-checkpoint'
+
+
 def extract_and_save_data_from_json( output_file_path):
     try:
         response = requests.get("https://01.gritlab.ax/api/object/gritlab")
@@ -15,8 +18,9 @@ def extract_and_save_data_from_json( output_file_path):
         print(f"Failed to decode JSON: {e}")
         return
     
+    
     # Navigate to the desired nested level
-    json_data = json_data['children']['piscine-go']['children']['final-checkpoint']['children']
+    json_data = json_data['children']['piscine-go']['children'][target_checkpoint]['children']
 
     # Write extracted data to the output file
     with open(output_file_path, 'w') as output_file:
@@ -43,6 +47,6 @@ def extract_and_save_data_from_json( output_file_path):
             output_file.write(output + '\n')
             output_file.write(details + '\n')
 
-output_file_path = './output/final.txt'
+output_file_path = f'./output/{target_checkpoint}.txt'
 
 extract_and_save_data_from_json(output_file_path)
