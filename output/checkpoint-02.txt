@@ -1,0 +1,225 @@
+onlya
+    group: 1
+    question: https://github.com/01-edu/public/tree/master/subjects/onlya/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+onlyz
+    group: 1
+    question: https://github.com/01-edu/public/tree/master/subjects/onlyz/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+printalphabet
+    group: 2
+    question: https://github.com/01-edu/public/tree/master/subjects/printalphabet/README.md
+    allowed: "github.com/01-edu/z01.PrintRune#2", "--allow-builtin"
+
+printreversealphabet
+    group: 2
+    question: https://github.com/01-edu/public/tree/master/subjects/printreversealphabet/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+printdigits
+    group: 2
+    question: https://github.com/01-edu/public/tree/master/subjects/printdigits/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+strlen
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/strlen/README.md
+    allowed: "--allow-builtin"
+
+swap
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/swap/README.md
+    allowed: "--allow-builtin"
+
+fishandchips
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/fishandchips/README.md
+    allowed: ""
+
+countcharacter
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/countcharacter/README.md
+    allowed: "--allow-builtin"
+
+countalpha
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/countalpha/README.md
+    allowed: ""
+
+checknumber
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/checknumber/README.md
+    allowed: ""
+
+digitlen
+    group: 3
+    question: https://github.com/01-edu/public/tree/master/subjects/digitlen/README.md
+    allowed: ""
+
+atoi
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/atoi/README.md
+    allowed: "--allow-builtin"
+
+printcomb
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/printcomb/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--no-lit=\d{3},"
+
+fromto
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/fromto/README.md
+    allowed: "strconv.Itoa"
+
+capitalize
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/capitalize/README.md
+    allowed: "--allow-builtin"
+
+itoa
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/itoa/README.md
+    allowed: "len", "--allow-builtin"
+
+weareunique
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/weareunique/README.md
+    allowed: "--allow-builtin", "strings.Contains"
+
+printrevcomb
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/printrevcomb/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--no-lit=\d{3},"
+
+printmemory
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/printmemory/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "unicode.IsGraphic", "--allow-builtin"
+
+iscapitalized
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/iscapitalized/README.md
+    allowed: "--allow-builtin"
+
+findprevprime
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/findprevprime/README.md
+    allowed: "--allow-builtin"
+
+thirdtimeisacharm
+    group: 4
+    question: https://github.com/01-edu/public/tree/master/subjects/thirdtimeisacharm/README.md
+    allowed: "--allow-builtin", "strings.String"
+
+saveandmiss
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/saveandmiss/README.md
+    allowed: "--allow-builtin"
+
+concatslice
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/concatslice/README.md
+    allowed: "--allow-builtin"
+
+union
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/union/README.md
+    allowed: "os.Args", "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+inter
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/inter/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "os.Args", "--allow-builtin"
+
+fprime
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/fprime/README.md
+    allowed: "strconv.Atoi", "os.Args", "fmt.*", "--allow-builtin"
+
+reversestrcap
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/reversestrcap/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "os.*", "--allow-builtin"
+
+wdmatch
+    group: 5
+    question: https://github.com/01-edu/public/tree/master/subjects/wdmatch/README.md
+    allowed: "os.Args", "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+fifthandskip
+    group: 6
+    question: https://github.com/01-edu/public/tree/master/subjects/fifthandskip/README.md
+    allowed: "--allow-builtin", "strings.String"
+
+slice
+    group: 6
+    question: https://github.com/01-edu/public/tree/master/subjects/slice/README.md
+    allowed: "--allow-builtin"
+
+revconcatalternate
+    group: 6
+    question: https://github.com/01-edu/public/tree/master/subjects/revconcatalternate/README.md
+    allowed: "--allow-builtin"
+
+notdecimal
+    group: 6
+    question: https://github.com/01-edu/public/tree/master/subjects/notdecimal/README.md
+    allowed: "--allow-builtin", "math.Pow", "strconv.Itoa"
+
+wordflip
+    group: 6
+    question: https://github.com/01-edu/public/tree/master/subjects/wordflip/README.md
+    allowed: "--allow-builtin", "strings.Split", "strings.TrimSpace"
+
+split
+    group: 7
+    question: https://github.com/01-edu/public/tree/master/subjects/split/README.md
+    allowed: "make", "--allow-builtin"
+
+rostring
+    group: 7
+    question: https://github.com/01-edu/public/tree/master/subjects/rostring/README.md
+    allowed: "os.Args", "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+printnbrbase
+    group: 7
+    question: https://github.com/01-edu/public/tree/master/subjects/printnbrbase/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+splitwhitespaces
+    group: 7
+    question: https://github.com/01-edu/public/tree/master/subjects/splitwhitespaces/README.md
+    allowed: "--allow-builtin"
+
+atoibase
+    group: 8
+    question: https://github.com/01-edu/public/tree/master/subjects/atoibase/README.md
+    allowed: "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+
+itoabase
+    group: 8
+    question: https://github.com/01-edu/public/tree/master/subjects/itoabase/README.md
+    allowed: "--allow-builtin"
+
+rpncalc
+    group: 9
+    question: https://github.com/01-edu/public/tree/master/subjects/rpncalc/README.md
+    allowed: "strconv.Atoi", "os.*", "fmt.*", "strings.Split", "--allow-builtin"
+
+brackets
+    group: 9
+    question: https://github.com/01-edu/public/tree/master/subjects/brackets/README.md
+    allowed: "strconv.Atoi", "os.*", "fmt.*", "strings.Split", "--allow-builtin"
+
+grouping
+    group: 10
+    question: https://github.com/01-edu/public/tree/master/subjects/grouping/README.md
+    allowed: "fmt.Printf", "os.Args", "--allow-builtin"
+
+brainfuck
+    group: 10
+    question: https://github.com/01-edu/public/tree/master/subjects/brainfuck/README.md
+    allowed: "os.*", "github.com/01-edu/z01.PrintRune", "--allow-builtin"
+

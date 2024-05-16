@@ -1,12 +1,24 @@
 import json
 import requests
 
-target_checkpoint = 'checkpoint-01' # 'checkpoint-02' , 'final-checkpoint'
+target_checkpoint = 'checkpoint-02' # 'checkpoint-01', 'checkpoint-02' , 'final-checkpoint'
 
 
 def extract_and_save_data_from_json( output_file_path):
     try:
         response = requests.get("https://01.gritlab.ax/api/object/gritlab")
+        if response.status_code == 403:
+            # use the local copy of file
+            with open(f'./data/gritlab.json') as f:
+                json_data = json.load(f)
+                print(f"Response status code: {response.status_code}")
+                print(f"Response text: {len(response.text)}")
+                
+        else:
+            # update the local file
+            with open(f'./data/gritlab.json', 'w') as f:
+                json.dump(response.json(), f)
+            
         print(f"Response status code: {response.status_code}")
         print(f"Response text: {len(response.text)}")
         
